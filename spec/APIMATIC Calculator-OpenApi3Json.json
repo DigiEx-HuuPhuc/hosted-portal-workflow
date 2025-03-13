@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "APIMATIC Calculator test",
+    "title": "neobank-cicd-document",
     "description": "Simple calculator API hosted on APIMATIC demo automation",
     "contact": {},
     "version": "1.0"
@@ -17,7 +17,7 @@
     "/{operation}": {
       "get": {
         "tags": [
-          "Simple Calculator"
+          "WHAT IS THIS"
         ],
         "summary": "Calculate",
         "description": "Calculates the expression using the specified operation.",
